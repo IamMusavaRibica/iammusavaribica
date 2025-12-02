@@ -3,7 +3,7 @@ Volim javu, python, CTF-ove i matematiku
 
 🏫:
 - [x] XV gimnazija 2021. - 2025.
-- [ ] FER uskoro
+- [ ] FER 2025. - 
 
 📧 `darac`at`ribica.dev`  
 📫 discord `7o1`
