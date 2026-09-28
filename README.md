@@ -1,7 +1,7 @@
 
-Volim javu, python, CTF-ove i matematiku
+## Volim javu, python, CTF-ove i matematiku
 
-Imam web-stranicu: https://ribica.dev
+## Imam web-stranicu: https://ribica.dev
 
 🏫:
 - [x] XV gimnazija 2021. - 2025.
